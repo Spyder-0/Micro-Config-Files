@@ -3,7 +3,7 @@ My Micro Text Editor Config Files. Feel free to use them as you like! The theme 
 
 # Downloading 🔽
 If you want to use these configs, follow these steps: <br />
-1. Download the [`micro`](https://github.com/SpyderGamer/Micro-Config-Files/tree/main/micro) folder and place it in this directory `~/.config`.
+1. [Download](https://github.com/SpyderGamer/Micro-Config-Files/releases) the [`micro`](https://github.com/SpyderGamer/Micro-Config-Files/tree/main/micro) folder and place it in this directory `~/.config`.
 2. Add this line to your .bashrc or .zshrc etc: `export "MICRO_TRUECOLOR=1"`. (Restart your terminal in order for this to work).
 3. Now run Micro in your terminal and enjoy your new look!
 
