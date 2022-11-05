@@ -1,4 +1,4 @@
-# Micro Config Files ⚙
+# [Micro](https://github.com/zyedidia/micro) Config Files ⚙
 My Micro Text Editor Config Files. Feel free to use them as you like! The theme used here is [`Catppuccin Mocha`](https://github.com/catppuccin/micro). Check out their repo if you only want the theme. Micro is a text editor in between GNU nano and VIM, so it's pretty easy to learn and use :)
 
 # Downloading 🔽
